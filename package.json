@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest test --detectOpenHandles",
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "coverage": "jest --coverage --detectOpenHandles --forceExit && cat ./coverage/lcov.info | coveralls"
   },
   "repository": {
     "type": "git",

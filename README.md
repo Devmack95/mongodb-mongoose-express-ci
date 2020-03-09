@@ -1,4 +1,4 @@
-<a href='https://coveralls.io/github/Devmack95/mongodb-mongoose-express-ci?branch=master'><img src='https://coveralls.io/repos/github/Devmack95/mongodb-mongoose-express-ci/badge.svg?branch=master' alt='Coverage Status' /></a>
+[![Coverage Status](https://coveralls.io/repos/github/Devmack95/mongodb-mongoose-express-ci/badge.svg?branch=master)](https://coveralls.io/github/Devmack95/mongodb-mongoose-express-ci?branch=master)
 
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
